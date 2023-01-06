@@ -1,0 +1,5 @@
+flet
+numerize
+ytmusicapi
+yt-dlp
+mutagen
