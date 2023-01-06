@@ -4,6 +4,9 @@ A python program that downloads songs.
 # Install Requirements
 <code>pip install -r requirements.txt</code>
 
+# Tools Needed:
+* [FFMPEG](https://www.gyan.dev/ffmpeg/builds/) 
+
 # How To Run
 * Clone or Download this repo.
 * Install the required dependencies using <code>pip install -r requirements.txt</code>
