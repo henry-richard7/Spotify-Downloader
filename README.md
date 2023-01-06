@@ -10,6 +10,7 @@ A python program that downloads songs.
 * Run this code <code>python main.py</code>
 
 # Screenshot
+![Screenshots](https://user-images.githubusercontent.com/68910039/210998286-de82d409-e477-4945-94c5-c6a32220e308.jpg)
 
 # 💡Copyrights © [Henry Richard J](https://github.com/henry-richard7)
 
